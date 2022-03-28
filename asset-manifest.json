@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5c2ad9c3.css",
+    "main.js": "/portfolio/static/js/main.e85cae43.js",
+    "static/js/787.5344719b.chunk.js": "/portfolio/static/js/787.5344719b.chunk.js",
+    "static/media/3.png": "/portfolio/static/media/3.64681c380a72f26db9f8.png",
+    "static/media/6.png": "/portfolio/static/media/6.44fd59b34046dfb3241f.png",
+    "static/media/perfil.jpg": "/portfolio/static/media/perfil.7448f2d1b1caec533174.jpg",
+    "static/media/4.png": "/portfolio/static/media/4.816825e7a1f99a3f6628.png",
+    "static/media/2.png": "/portfolio/static/media/2.e84c9c530f62e35fb94c.png",
+    "static/media/5.png": "/portfolio/static/media/5.66b8cbc7fbea9a046e11.png",
+    "static/media/7.png": "/portfolio/static/media/7.c491e9ad61c75fa9816a.png",
+    "static/media/1.png": "/portfolio/static/media/1.50ca4d53355dc30bc512.png",
+    "static/media/icon.png": "/portfolio/static/media/icon.96870a8f7b907d883853.png",
+    "static/media/sass.png": "/portfolio/static/media/sass.91714f748188b46f4e33.png",
+    "static/media/react.png": "/portfolio/static/media/react.86c8d9eba03e29814d2a.png",
+    "static/media/php.png": "/portfolio/static/media/php.4990580e9b615aeebb1f.png",
+    "static/media/java.png": "/portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/html.png": "/portfolio/static/media/html.cfb2ba4a6b1c3de295bc.png",
+    "static/media/css.png": "/portfolio/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/js.png": "/portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/portfolio/index.html",
+    "main.5c2ad9c3.css.map": "/portfolio/static/css/main.5c2ad9c3.css.map",
+    "main.e85cae43.js.map": "/portfolio/static/js/main.e85cae43.js.map",
+    "787.5344719b.chunk.js.map": "/portfolio/static/js/787.5344719b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c2ad9c3.css",
+    "static/js/main.e85cae43.js"
+  ]
+}
